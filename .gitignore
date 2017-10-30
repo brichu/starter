@@ -20,12 +20,6 @@ node_modules/
 ehthumbs.db
 Thumbs.db
 
-
-# ignore Editor files
-*.sublime-project
-*.sublime-workspace
-*.komodoproject
-
 # ignore log files and databases
 *.log
 *.sql
@@ -54,7 +48,6 @@ Thumbs.db
 # --------------------
 !.gitignore
 !README.md
-!README.md
 !CHANGELOG.md
 !package.json
 
@@ -71,7 +64,7 @@ wordpress/wp-content/*
 !wordpress/wp-content/plugins/
 
 wordpress/wp-content/themes/*
-!wordpress/wp-content/themes/burney/
+!wordpress/wp-content/themes/starter/
 
 wordpress/wp-content/plugins/*
-!wordpress/wp-content/plugins/burney-customizations/
+!wordpress/wp-content/plugins/starter-customizations/
